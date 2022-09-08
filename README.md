@@ -1,11 +1,12 @@
 ### Hi there, I'm Fernanda Midori (:
 
-- Recently finished my master's degree in bioinformatics. 
-- Developed a method that identifies and classifies toxins from arachnids omics data using statistical and evolutional conservation approches (Position Specific Scoring Matrices e modelos de Hidden Markov).
-- Developed a method that predicts antiviral peptides and classify them based on their mechanism of action, using Deep and Machine learning.
-- Currently writing the manuscripts for the computational methods developed.  
+- 🎓 Recently finished my master's degree in bioinformatics. 
+- 🕷 Developed a method that identifies and classifies toxins from arachnids omics data using statistical and evolutional conservation approches (Position Specific Scoring Matrices e modelos de Hidden Markov).
+- 🦠 Developed a method that predicts antiviral peptides and classify them based on their mechanism of action, using Deep and Machine learning.
+- 📝 Currently writing the manuscripts for the computational methods developed.  
 
 **My Reseach Interest**:
+- Bioinformatics
 - in silico Drug Discovery 
 - Prediction and Classification
 - Genomics, Transcriptomics and Proteomics
@@ -17,16 +18,19 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 
 
 #### ML/DL
 
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 #### Tools and Technologies
 
