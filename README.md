@@ -8,7 +8,8 @@
 **My Reseach Interest**:
 - in silico Drug Discovery 
 - Prediction and Classification
-- Genomics, Transcriptomics and Proteomics. 
+- Genomics, Transcriptomics and Proteomics
+- Machine Learning
 
 ## Skills:
 
