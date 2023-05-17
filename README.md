@@ -1,16 +1,10 @@
-### Hi there, I'm Fernanda Midori (:
-
-- 🎓 Recently finished my master's degree in bioinformatics. 
-- 🕷 Developed a method that identifies and classifies toxins from arachnids omics data using statistical and evolutional conservation approches (Position Specific Scoring Matrices e modelos de Hidden Markov) -ArachnoFamTox. 
-- 🦠 Developed a method that predicts antiviral peptides and classify them based on their mechanism of action, using Deep and Machine learning - EnAVPCLass. 
-- 📝 Currently writing the manuscripts for the computational methods developed.  
-
 **My Reseach Interest**:
 - Bioinformatics
 - in silico Drug Discovery 
 - Prediction and Classification
 - Genomics, Transcriptomics and Proteomics
 - Machine Learning
+- Web development 
 
 ## Skills:
 
